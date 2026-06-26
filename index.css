@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#card {
+    background-color: #1B244A;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+h1 {
+    margin-top: 5px;
+    text-align: center;
+    color: #F94F6D;
+    font-family: Cursed Timer ULiL;
+    background-color: #080001;
+    font-size: 90px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#btn {
+    background-color: #1B244A;
+    color: #9AABD8;
+    border: 1px solid #9AABD8;
+    border-radius: 2px;
+    margin: 3px;
+}
